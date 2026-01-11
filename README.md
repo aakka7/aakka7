@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aakka7
-- 👀 I’m a recent grad interested in backend development & devops.
+- 👀 I’m a recent grad interested in backend development & infrastructure.
 - 🌱 I’m currently learning Computer Networking.
 - 💞️ I’m looking to secure a full-time developer role and ramp up contributions to open-source projects.
 - 📫 How to reach me: send me a message!
